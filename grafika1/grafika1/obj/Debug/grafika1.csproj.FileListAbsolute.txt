@@ -9,3 +9,13 @@ C:\Users\PancakeLQ\Documents\GitHub\c-sharp\grafika1\grafika1\obj\Debug\grafika1
 C:\Users\PancakeLQ\Documents\GitHub\c-sharp\grafika1\grafika1\obj\Debug\grafika1.exe
 C:\Users\PancakeLQ\Documents\GitHub\c-sharp\grafika1\grafika1\obj\Debug\grafika1.pdb
 C:\Users\PancakeLQ\Documents\GitHub\c-sharp\grafika1\grafika1\obj\Debug\grafika1.exe.config
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\bin\Debug\grafika1.exe.config
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\bin\Debug\grafika1.exe
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\bin\Debug\grafika1.pdb
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\obj\Debug\grafika1.csproj.AssemblyReference.cache
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\obj\Debug\grafika1.Form1.resources
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\obj\Debug\grafika1.Properties.Resources.resources
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\obj\Debug\grafika1.csproj.GenerateResource.cache
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\obj\Debug\grafika1.csproj.CoreCompileInputs.cache
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\obj\Debug\grafika1.exe
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\grafika1\grafika1\obj\Debug\grafika1.pdb
