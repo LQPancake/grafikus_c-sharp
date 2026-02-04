@@ -1,0 +1,10 @@
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\bin\Debug\blackCrimeFish.exe.config
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\bin\Debug\blackCrimeFish.exe
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\bin\Debug\blackCrimeFish.pdb
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\obj\Debug\blackCrimeFish.csproj.AssemblyReference.cache
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\obj\Debug\blackCrimeFish.Form1.resources
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\obj\Debug\blackCrimeFish.Properties.Resources.resources
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\obj\Debug\blackCrimeFish.csproj.GenerateResource.cache
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\obj\Debug\blackCrimeFish.csproj.CoreCompileInputs.cache
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\obj\Debug\blackCrimeFish.exe
+C:\Users\balig\Documents\GitHub\Csharp\blackCrimeFish\blackCrimeFish\obj\Debug\blackCrimeFish.pdb
