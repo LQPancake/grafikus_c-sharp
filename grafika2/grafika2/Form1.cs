@@ -16,6 +16,7 @@ namespace grafika2
         {
             InitializeComponent();
         }
+        private int FizetendoOsszesen { get; set; }
 
         private void groupBox1_Enter(object sender, EventArgs e)
         {
@@ -24,27 +25,41 @@ namespace grafika2
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
-
+            Calculator();
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-
+            Calculator();
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
+            Calculator();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if( cukorSok.Checked == true)
-            {labelEredmeny.Text = "Sok cukor";}
+            if (cukorSok.Checked == true)
+            { labelEredmeny.Text = "Sok cukor"; }
             else { labelEredmeny.Text = "Nem sok cukor"; }
+            if (ButtonFizetes.Text == "Fizetés")
+            {
+                ButtonBankkartya.Visible = true;
+                ButtonKp.Visible = true;
+                ButtonFizetes.Text = "Mégsem";
+            }
+            else
+            {
+                ButtonBankkartya.Visible = false;
+                ButtonKp.Visible = false;
+                ButtonFizetes.Text = "Fizetés";
+            }
         }
 
         private void tea_CheckedChanged(object sender, EventArgs e)
         {
+            Calculator();
             checkboxCitrom.Enabled = true;
             checkboxCitrom.Checked = false;
             checkboxKavekrem.Enabled = false;
@@ -57,16 +72,19 @@ namespace grafika2
 
         private void espresso_CheckedChanged(object sender, EventArgs e)
         {
+            Calculator();
             IngredientsSettings();
         }
 
         private void duplaKave_CheckedChanged(object sender, EventArgs e)
         {
+            Calculator();
             IngredientsSettings();
         }
 
         private void hosszuKave_CheckedChanged(object sender, EventArgs e)
         {
+            Calculator();
             IngredientsSettings();
         }
         private void IngredientsSettings()
@@ -81,9 +99,77 @@ namespace grafika2
             checkboxTejpor.Checked = false;
         }
 
+        private void Calculator()
+        {
+            int ital = 0, hozzavalo = 0, cukor = 0;
+            if (espresso.Checked) { ital = +140; }
+            if (duplaKave.Checked) { ital = +200; }
+            if (hosszuKave.Checked) { ital = +170; }
+            if (tea.Checked) { ital = +120; }
+            textBoxItalAr.Text = ital.ToString();
+            if(checkboxCitrom.Checked) { hozzavalo += 20; }
+            if(checkboxKavekrem.Checked) { hozzavalo += 40; }
+            if(checkboxTejpor.Checked) { hozzavalo += 25; }
+            if(checkboxTejszin.Checked) { hozzavalo += 30; }
+            textBoxHozzavaloAr.Text = hozzavalo.ToString();
+            if(cukorKeves.Checked) { cukor += 60; }
+            if(cukorSok.Checked) { cukor += 10; }
+            textBoxCukorAr.Text = cukor.ToString();
+            textBoxOsszesenAr.Text = (ital + hozzavalo + cukor).ToString();
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkboxKavekrem_CheckedChanged(object sender, EventArgs e)
+        {
+            Calculator();
+        }
+
+        private void checkboxTejszin_CheckedChanged(object sender, EventArgs e)
+        {
+            Calculator();
+        }
+
+        private void checkboxTejpor_CheckedChanged(object sender, EventArgs e)
+        {
+            Calculator();
+        }
+
+        private void checkboxCitrom_CheckedChanged(object sender, EventArgs e)
+        {
+            Calculator();
+        }
+
+        private void ButtonBankkartya_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("A kártyaolvasó nem működik, sajnálom!","Sorry",MessageBoxButtons.OK,MessageBoxIcon.Error);
         }
     }
 }
