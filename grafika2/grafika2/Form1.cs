@@ -54,6 +54,7 @@ namespace grafika2
                 ButtonBankkartya.Visible = false;
                 ButtonKp.Visible = false;
                 ButtonFizetes.Text = "Fizetés";
+                groupBoxKpFizet.Visible = false;
             }
         }
 
@@ -170,6 +171,43 @@ namespace grafika2
         private void ButtonBankkartya_Click(object sender, EventArgs e)
         {
             MessageBox.Show("A kártyaolvasó nem működik, sajnálom!","Sorry",MessageBoxButtons.OK,MessageBoxIcon.Error);
+        }
+
+        private void ButtonKp_Click(object sender, EventArgs e)
+        {
+            groupBoxKpFizet.Visible = true;
+        }
+
+        private void labelEredmeny_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelTajekoztatas_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonPenzBedob_Click(object sender, EventArgs e)
+        {
+            int keszpenz = int.Parse(textBoxEgyenleg.Text);
+            if (keszpenz == FizetendoOsszesen)
+            {
+                labelEredmeny.Text = "Elegendő összeg";
+            }
+            else if(keszpenz > FizetendoOsszesen)
+            {
+                labelEredmeny.Text = $"Visszajáró: {keszpenz - FizetendoOsszesen}";
+            }
+            else
+            {
+                labelEredmeny.Text = "Nem elegendő összeg";
+            }
+        }
+
+        private void groupBoxKpFizet_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

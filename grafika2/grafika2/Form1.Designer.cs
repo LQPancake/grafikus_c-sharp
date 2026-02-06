@@ -55,10 +55,14 @@
             this.label2 = new System.Windows.Forms.Label();
             this.ButtonBankkartya = new System.Windows.Forms.Button();
             this.ButtonKp = new System.Windows.Forms.Button();
+            this.textBoxEgyenleg = new System.Windows.Forms.TextBox();
+            this.buttonPenzBedob = new System.Windows.Forms.Button();
+            this.groupBoxKpFizet = new System.Windows.Forms.GroupBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.hozzavalok.SuspendLayout();
             this.groupBox3.SuspendLayout();
+            this.groupBoxKpFizet.SuspendLayout();
             this.SuspendLayout();
             // 
             // checkboxKavekrem
@@ -214,11 +218,12 @@
             // labelEredmeny
             // 
             this.labelEredmeny.AutoSize = true;
-            this.labelEredmeny.Location = new System.Drawing.Point(160, 309);
+            this.labelEredmeny.Location = new System.Drawing.Point(14, 40);
             this.labelEredmeny.Name = "labelEredmeny";
             this.labelEredmeny.Size = new System.Drawing.Size(83, 13);
             this.labelEredmeny.TabIndex = 12;
             this.labelEredmeny.Text = "Nincs eredmény";
+            this.labelEredmeny.Click += new System.EventHandler(this.labelEredmeny_Click);
             // 
             // checkboxCitrom
             // 
@@ -354,17 +359,49 @@
             this.ButtonKp.Text = "Készpénz";
             this.ButtonKp.UseVisualStyleBackColor = true;
             this.ButtonKp.Visible = false;
+            this.ButtonKp.Click += new System.EventHandler(this.ButtonKp_Click);
+            // 
+            // textBoxEgyenleg
+            // 
+            this.textBoxEgyenleg.Location = new System.Drawing.Point(17, 17);
+            this.textBoxEgyenleg.Name = "textBoxEgyenleg";
+            this.textBoxEgyenleg.Size = new System.Drawing.Size(82, 20);
+            this.textBoxEgyenleg.TabIndex = 19;
+            // 
+            // buttonPenzBedob
+            // 
+            this.buttonPenzBedob.Location = new System.Drawing.Point(105, 17);
+            this.buttonPenzBedob.Name = "buttonPenzBedob";
+            this.buttonPenzBedob.Size = new System.Drawing.Size(75, 23);
+            this.buttonPenzBedob.TabIndex = 20;
+            this.buttonPenzBedob.Text = "Bedob";
+            this.buttonPenzBedob.UseVisualStyleBackColor = true;
+            this.buttonPenzBedob.Click += new System.EventHandler(this.buttonPenzBedob_Click);
+            // 
+            // groupBoxKpFizet
+            // 
+            this.groupBoxKpFizet.Controls.Add(this.buttonPenzBedob);
+            this.groupBoxKpFizet.Controls.Add(this.textBoxEgyenleg);
+            this.groupBoxKpFizet.Controls.Add(this.labelEredmeny);
+            this.groupBoxKpFizet.Location = new System.Drawing.Point(227, 302);
+            this.groupBoxKpFizet.Name = "groupBoxKpFizet";
+            this.groupBoxKpFizet.Size = new System.Drawing.Size(198, 59);
+            this.groupBoxKpFizet.TabIndex = 21;
+            this.groupBoxKpFizet.TabStop = false;
+            this.groupBoxKpFizet.Text = "KP Fizetés";
+            this.groupBoxKpFizet.Visible = false;
+            this.groupBoxKpFizet.Enter += new System.EventHandler(this.groupBoxKpFizet_Enter);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(496, 359);
+            this.Controls.Add(this.groupBoxKpFizet);
             this.Controls.Add(this.ButtonKp);
             this.Controls.Add(this.ButtonBankkartya);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.hozzavalok);
-            this.Controls.Add(this.labelEredmeny);
             this.Controls.Add(this.ButtonFizetes);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -379,8 +416,9 @@
             this.hozzavalok.PerformLayout();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
+            this.groupBoxKpFizet.ResumeLayout(false);
+            this.groupBoxKpFizet.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -413,6 +451,9 @@
         private System.Windows.Forms.TextBox textBoxItalAr;
         private System.Windows.Forms.Button ButtonBankkartya;
         private System.Windows.Forms.Button ButtonKp;
+        private System.Windows.Forms.TextBox textBoxEgyenleg;
+        private System.Windows.Forms.Button buttonPenzBedob;
+        private System.Windows.Forms.GroupBox groupBoxKpFizet;
     }
 }
 
