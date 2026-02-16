@@ -66,7 +66,18 @@ namespace kekturaForm
         {
             try
             {
-                int index = listBoxUtvonalLista.SelectedItem;
+                if(listBoxUtvonalLista.SelectedItem != null)
+                {
+                    MessageBox.Show("Válasszon ki egy elemet!", "Gatya", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+                else
+                {
+                    int index = listBoxUtvonalLista.SelectedIndex;
+                }
+            }
+            catch
+            {
+
             }
         }
     }
