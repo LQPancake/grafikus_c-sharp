@@ -110,9 +110,13 @@
             // 
             // textBoxKartyak
             // 
-            this.textBoxKartyak.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.textBoxKartyak.BackColor = System.Drawing.Color.Black;
+            this.textBoxKartyak.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBoxKartyak.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.textBoxKartyak.ForeColor = System.Drawing.Color.White;
             this.textBoxKartyak.Location = new System.Drawing.Point(315, 153);
             this.textBoxKartyak.Name = "textBoxKartyak";
+            this.textBoxKartyak.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.textBoxKartyak.Size = new System.Drawing.Size(143, 31);
             this.textBoxKartyak.TabIndex = 5;
             this.textBoxKartyak.TextChanged += new System.EventHandler(this.textBoxDealerKartyak_TextChanged);
@@ -282,7 +286,10 @@
             // 
             // textBoxDealerKartyak
             // 
-            this.textBoxDealerKartyak.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.textBoxDealerKartyak.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.textBoxDealerKartyak.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBoxDealerKartyak.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.textBoxDealerKartyak.ForeColor = System.Drawing.Color.White;
             this.textBoxDealerKartyak.Location = new System.Drawing.Point(315, 87);
             this.textBoxDealerKartyak.Name = "textBoxDealerKartyak";
             this.textBoxDealerKartyak.Size = new System.Drawing.Size(143, 31);
