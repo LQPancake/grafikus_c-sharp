@@ -4,3 +4,9 @@ C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\
 C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\obj\Debug\blackjackLibrary.csproj.CoreCompileInputs.cache
 C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\obj\Debug\blackjackLibrary.dll
 C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\obj\Debug\blackjackLibrary.pdb
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\bin\Debug\blackjackLibrary.dll
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\bin\Debug\blackjackLibrary.pdb
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\obj\Debug\blackjackLibrary.csproj.AssemblyReference.cache
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\obj\Debug\blackjackLibrary.csproj.CoreCompileInputs.cache
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\obj\Debug\blackjackLibrary.dll
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackLibrary\obj\Debug\blackjackLibrary.pdb

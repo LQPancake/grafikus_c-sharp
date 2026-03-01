@@ -106,7 +106,7 @@
             this.buttonFeltoltes.TabIndex = 4;
             this.buttonFeltoltes.Text = "Feltöltés";
             this.buttonFeltoltes.UseVisualStyleBackColor = true;
-            this.buttonFeltoltes.Visible = false;
+            this.buttonFeltoltes.Click += new System.EventHandler(this.buttonFeltoltes_Click);
             // 
             // textBoxKartyak
             // 
@@ -226,7 +226,7 @@
             this.textBoxFeltoltes.Name = "textBoxFeltoltes";
             this.textBoxFeltoltes.Size = new System.Drawing.Size(84, 20);
             this.textBoxFeltoltes.TabIndex = 16;
-            this.textBoxFeltoltes.Visible = false;
+            this.textBoxFeltoltes.TextChanged += new System.EventHandler(this.textBoxFeltoltes_TextChanged);
             // 
             // groupBoxBlackjack
             // 

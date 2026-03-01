@@ -11,3 +11,16 @@ C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution
 C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjac.4CA1BD57.Up2Date
 C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjackSolution.exe
 C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjackSolution.pdb
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\bin\Debug\blackjackSolution.exe.config
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\bin\Debug\blackjackSolution.exe
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\bin\Debug\blackjackSolution.pdb
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\bin\Debug\blackjackLibrary.dll
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\bin\Debug\blackjackLibrary.pdb
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjackSolution.csproj.AssemblyReference.cache
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjackSolution.Form1.resources
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjackSolution.Properties.Resources.resources
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjackSolution.csproj.GenerateResource.cache
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjackSolution.csproj.CoreCompileInputs.cache
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjac.4CA1BD57.Up2Date
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjackSolution.exe
+C:\Users\balig\Documents\GitHub\grafikus_c-sharp\blackjack\blackjackSolution\obj\Debug\blackjackSolution.pdb
