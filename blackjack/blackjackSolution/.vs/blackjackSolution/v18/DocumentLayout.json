@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\balig\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6158BBAD-E200-4190-9B26-2CF03AF74D93}|blackjackSolution.csproj|C:\\Users\\balig\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50F3C808-CA80-4206-83DD-D0EF4FD556ED}|..\\blackjackLibrary\\blackjackLibrary.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\blackjack\\blackjacklibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6158BBAD-E200-4190-9B26-2CF03AF74D93}|blackjackSolution.csproj|C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6158BBAD-E200-4190-9B26-2CF03AF74D93}|blackjackSolution.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F3C808-CA80-4206-83DD-D0EF4FD556ED}|..\\blackjackLibrary\\blackjackLibrary.csproj|c:\\users\\balig\\documents\\github\\grafikus_c-sharp\\blackjack\\blackjacklibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6158BBAD-E200-4190-9B26-2CF03AF74D93}|blackjackSolution.csproj|c:\\users\\balig\\documents\\github\\grafikus_c-sharp\\blackjack\\blackjacksolution\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6158BBAD-E200-4190-9B26-2CF03AF74D93}|blackjackSolution.csproj|C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6158BBAD-E200-4190-9B26-2CF03AF74D93}|blackjackSolution.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -25,42 +25,39 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\balig\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\blackjackLibrary\\Class1.cs",
-              "ToolTip": "C:\\Users\\balig\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackLibrary\\Class1.cs",
-              "RelativeToolTip": "..\\blackjackLibrary\\Class1.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAwBgAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T09:08:49.157Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T06:41:05.394Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\balig\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\balig\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAkwKEAAAAFAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\blackjackLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\blackjackLibrary\\Class1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T06:41:28.406Z",
+              "WhenOpened": "2026-03-02T07:05:07.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\balig\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\Form1.cs",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\balig\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\blackjack\\blackjackSolution\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T06:41:05.394Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-27T06:41:28.406Z"
             }
           ]
         }
