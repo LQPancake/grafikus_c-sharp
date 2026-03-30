@@ -1,0 +1,10 @@
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\bin\Debug\ConsoleSzoba.exe.config
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\bin\Debug\ConsoleSzoba.exe
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\bin\Debug\ConsoleSzoba.pdb
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\bin\Debug\ClassLibrarySzoba0.dll
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\bin\Debug\ClassLibrarySzoba0.pdb
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\obj\Debug\ConsoleSzoba.csproj.AssemblyReference.cache
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\obj\Debug\ConsoleSzoba.csproj.CoreCompileInputs.cache
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\obj\Debug\ConsoleS.0D91F685.Up2Date
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\obj\Debug\ConsoleSzoba.exe
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ConsoleSzoba\obj\Debug\ConsoleSzoba.pdb

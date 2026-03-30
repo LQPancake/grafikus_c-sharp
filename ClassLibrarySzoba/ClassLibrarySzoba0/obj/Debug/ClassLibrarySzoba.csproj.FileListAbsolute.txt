@@ -1,0 +1,6 @@
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ClassLibrarySzoba0\bin\Debug\ClassLibrarySzoba0.dll
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ClassLibrarySzoba0\bin\Debug\ClassLibrarySzoba0.pdb
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ClassLibrarySzoba0\obj\Debug\ClassLibrarySzoba.csproj.AssemblyReference.cache
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ClassLibrarySzoba0\obj\Debug\ClassLibrarySzoba.csproj.CoreCompileInputs.cache
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ClassLibrarySzoba0\obj\Debug\ClassLibrarySzoba0.dll
+C:\Users\PancakeLQ\Documents\GitHub\grafikus_c-sharp\ClassLibrarySzoba\ClassLibrarySzoba0\obj\Debug\ClassLibrarySzoba0.pdb

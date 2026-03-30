@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClassLibrarySzoba0/ClassLibrarySzoba.csproj" />
+  <Project Path="ConsoleSzoba/ConsoleSzoba.csproj" />
+  <Project Path="WindowsFormsSzoba0/WindowsFormsSzoba0.csproj" />
+  <Project Path="WPFSzoba/WPFSzoba.csproj" />
+</Solution>

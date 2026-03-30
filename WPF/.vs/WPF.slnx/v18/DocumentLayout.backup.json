@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE7BEF55-06F4-4F7A-ACC8-A6A0C594D938}|WPF\\WPF.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\wpf\\wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EE7BEF55-06F4-4F7A-ACC8-A6A0C594D938}|WPF\\WPF.csproj|solutionrelative:wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{68245C1E-B56E-9570-FC88-BA8BDDA8077B}|WPF\\WPF.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\wpf\\wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68245C1E-B56E-9570-FC88-BA8BDDA8077B}|WPF\\WPF.csproj|solutionrelative:wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7BEF55-06F4-4F7A-ACC8-A6A0C594D938}|WPF\\WPF.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\wpf\\wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE7BEF55-06F4-4F7A-ACC8-A6A0C594D938}|WPF\\WPF.csproj|solutionrelative:wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68245C1E-B56E-9570-FC88-BA8BDDA8077B}|WPF\\WPF.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\wpf\\wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68245C1E-B56E-9570-FC88-BA8BDDA8077B}|WPF\\WPF.csproj|solutionrelative:wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,7 @@
               "RelativeToolTip": "WPF\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T06:42:23.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T06:42:23.496Z"
             }
           ]
         }

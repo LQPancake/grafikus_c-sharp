@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "mFG9lDDX8DA=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\WindowsFormsSzoba\\WindowsFormsSzoba.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\ClassLibrarySzoba0\\ClassLibrarySzoba.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "projectPath": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\WindowsFormsSzoba\\WindowsFormsSzoba.csproj",
+      "filePath": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\WindowsFormsSzoba\\WindowsFormsSzoba.csproj",
+      "libraryId": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\ClassLibrarySzoba0\\ClassLibrarySzoba.csproj",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
+}
