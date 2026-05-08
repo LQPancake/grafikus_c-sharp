@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC162E05-282A-4445-AF0C-7AC41273F56D}|WPFSzoba\\WPFSzoba.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\classlibraryszoba\\wpfszoba\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DC162E05-282A-4445-AF0C-7AC41273F56D}|WPFSzoba\\WPFSzoba.csproj|solutionrelative:wpfszoba\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9BD84AD-26A8-48CD-0597-9921938937C1}|WPFSzoba\\WPFSzoba.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\classlibraryszoba\\wpfszoba\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9BD84AD-26A8-48CD-0597-9921938937C1}|WPFSzoba\\WPFSzoba.csproj|solutionrelative:wpfszoba\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC162E05-282A-4445-AF0C-7AC41273F56D}|WPFSzoba\\WPFSzoba.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\classlibraryszoba\\wpfszoba\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC162E05-282A-4445-AF0C-7AC41273F56D}|WPFSzoba\\WPFSzoba.csproj|solutionrelative:wpfszoba\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30616123-5ADA-4A01-A29A-AE12323C8E58}|WindowsFormsSzoba0\\WindowsFormsSzoba0.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\classlibraryszoba\\windowsformsszoba0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30616123-5ADA-4A01-A29A-AE12323C8E58}|WindowsFormsSzoba0\\WindowsFormsSzoba0.csproj|C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\windowsformsszoba0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30616123-5ADA-4A01-A29A-AE12323C8E58}|WindowsFormsSzoba0\\WindowsFormsSzoba0.csproj|solutionrelative:windowsformsszoba0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30616123-5ADA-4A01-A29A-AE12323C8E58}|WindowsFormsSzoba0\\WindowsFormsSzoba0.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\classlibraryszoba\\windowsformsszoba0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{30616123-5ADA-4A01-A29A-AE12323C8E58}|WindowsFormsSzoba0\\WindowsFormsSzoba0.csproj|C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\windowsformsszoba0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30616123-5ADA-4A01-A29A-AE12323C8E58}|WindowsFormsSzoba0\\WindowsFormsSzoba0.csproj|solutionrelative:windowsformsszoba0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF4DE984-495D-4589-B063-DE58B08F3A6B}|ConsoleSzoba\\ConsoleSzoba.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\classlibraryszoba\\consoleszoba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF4DE984-495D-4589-B063-DE58B08F3A6B}|ConsoleSzoba\\ConsoleSzoba.csproj|C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\consoleszoba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF4DE984-495D-4589-B063-DE58B08F3A6B}|ConsoleSzoba\\ConsoleSzoba.csproj|solutionrelative:consoleszoba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A272CFB8-DB56-450D-83BC-7067415E8FEA}|ClassLibrarySzoba0\\ClassLibrarySzoba0.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\classlibraryszoba\\classlibraryszoba0\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A272CFB8-DB56-450D-83BC-7067415E8FEA}|ClassLibrarySzoba0\\ClassLibrarySzoba0.csproj|C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\classlibraryszoba0\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A272CFB8-DB56-450D-83BC-7067415E8FEA}|ClassLibrarySzoba0\\ClassLibrarySzoba0.csproj|solutionrelative:classlibraryszoba0\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BD84AD-26A8-48CD-0597-9921938937C1}|WPFSzoba\\WPFSzoba.csproj|c:\\users\\pancakelq\\documents\\github\\grafikus_c-sharp\\classlibraryszoba\\wpfszoba\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BD84AD-26A8-48CD-0597-9921938937C1}|WPFSzoba\\WPFSzoba.csproj|solutionrelative:wpfszoba\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\ClassLibrarySzoba0\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibrarySzoba0\\Class1.cs",
@@ -47,8 +47,7 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T09:28:27.464Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -64,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\WPFSzoba\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFSzoba\\MainWindow.xaml.cs",
@@ -72,12 +71,11 @@
               "RelativeToolTip": "WPFSzoba\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T10:29:10.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T10:29:10.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\WindowsFormsSzoba0\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsSzoba0\\Form1.cs",
@@ -85,24 +83,22 @@
               "RelativeToolTip": "WindowsFormsSzoba0\\Form1.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T10:15:42.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T10:15:42.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\WindowsFormsSzoba0\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsSzoba0\\Form1.cs",
               "ToolTip": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\WindowsFormsSzoba0\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsSzoba0\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T10:04:55.306Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-30T10:04:55.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PancakeLQ\\Documents\\GitHub\\grafikus_c-sharp\\ClassLibrarySzoba\\ConsoleSzoba\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleSzoba\\Program.cs",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "ConsoleSzoba\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T09:23:04.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T09:23:04.392Z"
             }
           ]
         }
